@@ -4,9 +4,9 @@
 
 > Can we select a stock or a cryptocurrency that will gives us the best ROI at the end of the year? 
 >
->**Criterion:**
->Single investment of 100,000 USD on 2020-01-01 
->Realize gain based on the adjusted close value of the stock on 2020-12-31
+>**Criterion:**  
+>Single investment of 100,000 USD on 2020-01-01   
+>Realize gain based on the adjusted close value of the stock on 2020-12-31  
 >
 >**Goal:**
 >Determine a stock that yields the highest return with high confidence
