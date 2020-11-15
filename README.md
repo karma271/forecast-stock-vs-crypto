@@ -28,12 +28,12 @@
 | [processed_data]( assets/data/processed_data)                    | NASDAQ_stock_performance.csv                                                                                   | Forecast profile for 10 performant stocks                                                               |
  
 
-
 ## Notes for replication
+* requires python 3.7 or higher
 * git clone the repo
 * create a virtual environment
 * install required libraries `pip install -r requirements.txt`
 * ensure that all the folder structure defined in the Directory Structure exist
 * run notebooks in a sequential order
 
-*Note: Some scripts and notebook take a while to run.*
+*Note: Some scripts and notebooks take a while to run.*
