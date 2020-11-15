@@ -26,7 +26,7 @@
 | [Bitcoin data](assets/data/historical_bitcoin)                   | bitcoin.csv                                                                                                    | Can be downloaded from [here](https://www.kaggle.com/mczielinski/bitcoin-historical-data)               |
 | [best_models_SARIMAX_2020](assets/data/best_models_SARIMAX_2020) | -                                                                                                              | Need this folder to replicate saving models that will be reused by multiple notebooks                   |
 | [processed_data]( assets/data/processed_data)                    | NASDAQ_stock_performance.csv                                                                                   | Forecast profile for 10 performant stocks                                                               |
- 
+| [slide deck](Slide_Deck.pdf)                    |    Slide_Deck.pdf                                     | Presentation Slide Deck   |
 
 ## Notes for replication
 * requires python 3.7 or higher
