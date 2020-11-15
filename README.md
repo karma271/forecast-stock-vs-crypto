@@ -1,7 +1,10 @@
 # Can we pick the 'right' asset for 2020?  
 **Author:** Prasoon Karmacharya  
-**Github:** https://github.com/karma271   
+**Repository:** https://github.com/karma271/forecast-stock-vs-crypto  
+
+
 <hr>
+
 # Problem statement
 
 > Can we select a stock or a cryptocurrency that will gives us the best ROI at the end of the year? 
