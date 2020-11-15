@@ -28,6 +28,7 @@
 
 
 ## Notes for replication
+* git clone the repo
 * create a virtual environment
 * install required libraries `pip install -r requirements.txt`
 * ensure that all the folder structure defined in the Directory Structure exist
